@@ -10,8 +10,10 @@ Enotes Tracker is a simple yet powerful web application designed for efficient e
 
 # Getting Started
 1. Create a database named "enotes_data" using command
-   =>  create database enotes_data;
-2.Configure a MySQL database and update the application.properties file with the correct database URL, username, and password(spring-servlet.xml)
+   =>  create database enotes_data;  .
+   
+2.Configure a MySQL database and update the application.properties file with the correct database URL, username, and password(spring-servlet.xml).
+
 Build and Run:
 3. Open a web browser and go to http://localhost:8080 to access Enotes Tracker.
 # Technologies Used
